@@ -12,6 +12,15 @@
 		88701C9E28EE4337005837E6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88701C9D28EE4337005837E6 /* ContentView.swift */; };
 		88701CA028EE4338005837E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88701C9F28EE4338005837E6 /* Assets.xcassets */; };
 		88701CA328EE4338005837E6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88701CA228EE4338005837E6 /* Preview Assets.xcassets */; };
+		88ED038E28F04AC800274077 /* NiceToMeetYouSpecialEffectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED038D28F04AC800274077 /* NiceToMeetYouSpecialEffectsView.swift */; };
+		88ED039028F04B0300274077 /* NiceToMeetYouHighPerformanceMetalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED038F28F04B0300274077 /* NiceToMeetYouHighPerformanceMetalView.swift */; };
+		88ED039228F04B2F00274077 /* NiceToMeetYouImagePaintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED039128F04B2F00274077 /* NiceToMeetYouImagePaintView.swift */; };
+		88ED039428F04B5600274077 /* NiceToMeetYouCGAffineTransformView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED039328F04B5600274077 /* NiceToMeetYouCGAffineTransformView.swift */; };
+		88ED039628F04B9100274077 /* NiceToMeetYouShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED039528F04B9100274077 /* NiceToMeetYouShapeView.swift */; };
+		88ED039828F04BB700274077 /* NiceToMeetYouPathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED039728F04BB700274077 /* NiceToMeetYouPathView.swift */; };
+		88ED039A28F051E900274077 /* NiceToMeetYouAnimatableData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED039928F051E900274077 /* NiceToMeetYouAnimatableData.swift */; };
+		88ED039C28F0570F00274077 /* NiceToMeetYouAnimatablePair.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED039B28F0570F00274077 /* NiceToMeetYouAnimatablePair.swift */; };
+		88ED039E28F05D6200274077 /* ThatOneIsReallyGood.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED039D28F05D6200274077 /* ThatOneIsReallyGood.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +30,15 @@
 		88701C9D28EE4337005837E6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		88701C9F28EE4338005837E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88701CA228EE4338005837E6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		88ED038D28F04AC800274077 /* NiceToMeetYouSpecialEffectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NiceToMeetYouSpecialEffectsView.swift; sourceTree = "<group>"; };
+		88ED038F28F04B0300274077 /* NiceToMeetYouHighPerformanceMetalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NiceToMeetYouHighPerformanceMetalView.swift; sourceTree = "<group>"; };
+		88ED039128F04B2F00274077 /* NiceToMeetYouImagePaintView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NiceToMeetYouImagePaintView.swift; sourceTree = "<group>"; };
+		88ED039328F04B5600274077 /* NiceToMeetYouCGAffineTransformView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NiceToMeetYouCGAffineTransformView.swift; sourceTree = "<group>"; };
+		88ED039528F04B9100274077 /* NiceToMeetYouShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NiceToMeetYouShapeView.swift; sourceTree = "<group>"; };
+		88ED039728F04BB700274077 /* NiceToMeetYouPathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NiceToMeetYouPathView.swift; sourceTree = "<group>"; };
+		88ED039928F051E900274077 /* NiceToMeetYouAnimatableData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NiceToMeetYouAnimatableData.swift; sourceTree = "<group>"; };
+		88ED039B28F0570F00274077 /* NiceToMeetYouAnimatablePair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NiceToMeetYouAnimatablePair.swift; sourceTree = "<group>"; };
+		88ED039D28F05D6200274077 /* ThatOneIsReallyGood.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThatOneIsReallyGood.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +72,7 @@
 		88701C9A28EE4337005837E6 /* Drawing */ = {
 			isa = PBXGroup;
 			children = (
+				88ED038C28F04AB900274077 /* Views */,
 				88701C9B28EE4337005837E6 /* DrawingApp.swift */,
 				88701C9D28EE4337005837E6 /* ContentView.swift */,
 				88701C9F28EE4338005837E6 /* Assets.xcassets */,
@@ -68,6 +87,22 @@
 				88701CA228EE4338005837E6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		88ED038C28F04AB900274077 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				88ED038D28F04AC800274077 /* NiceToMeetYouSpecialEffectsView.swift */,
+				88ED038F28F04B0300274077 /* NiceToMeetYouHighPerformanceMetalView.swift */,
+				88ED039128F04B2F00274077 /* NiceToMeetYouImagePaintView.swift */,
+				88ED039328F04B5600274077 /* NiceToMeetYouCGAffineTransformView.swift */,
+				88ED039528F04B9100274077 /* NiceToMeetYouShapeView.swift */,
+				88ED039728F04BB700274077 /* NiceToMeetYouPathView.swift */,
+				88ED039928F051E900274077 /* NiceToMeetYouAnimatableData.swift */,
+				88ED039B28F0570F00274077 /* NiceToMeetYouAnimatablePair.swift */,
+				88ED039D28F05D6200274077 /* ThatOneIsReallyGood.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,8 +176,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88ED039828F04BB700274077 /* NiceToMeetYouPathView.swift in Sources */,
+				88ED039028F04B0300274077 /* NiceToMeetYouHighPerformanceMetalView.swift in Sources */,
+				88ED038E28F04AC800274077 /* NiceToMeetYouSpecialEffectsView.swift in Sources */,
+				88ED039628F04B9100274077 /* NiceToMeetYouShapeView.swift in Sources */,
 				88701C9E28EE4337005837E6 /* ContentView.swift in Sources */,
+				88ED039A28F051E900274077 /* NiceToMeetYouAnimatableData.swift in Sources */,
+				88ED039C28F0570F00274077 /* NiceToMeetYouAnimatablePair.swift in Sources */,
+				88ED039428F04B5600274077 /* NiceToMeetYouCGAffineTransformView.swift in Sources */,
+				88ED039228F04B2F00274077 /* NiceToMeetYouImagePaintView.swift in Sources */,
 				88701C9C28EE4337005837E6 /* DrawingApp.swift in Sources */,
+				88ED039E28F05D6200274077 /* ThatOneIsReallyGood.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
