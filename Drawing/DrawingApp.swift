@@ -2,7 +2,7 @@
 //  DrawingApp.swift
 //  Drawing
 //
-//  Created by Jonas Agnezi on 05/10/22.
+//  Created agnezi.io on 05/10/22.
 //
 
 import SwiftUI
