@@ -2,7 +2,7 @@
 //  NiceToMeetYouAnimatablePair.swift
 //  Drawing
 //
-//  Created by Jonas Agnezi on 07/10/22.
+//  Created by agnezi.io on 07/10/22.
 //
 
 import SwiftUI
