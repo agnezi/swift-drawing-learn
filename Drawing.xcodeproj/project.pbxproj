@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		88696C1728EFAC1E002789FD /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 88696C1628EFAC1E002789FD /* .gitignore */; };
 		88701C9C28EE4337005837E6 /* DrawingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88701C9B28EE4337005837E6 /* DrawingApp.swift */; };
 		88701C9E28EE4337005837E6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88701C9D28EE4337005837E6 /* ContentView.swift */; };
 		88701CA028EE4338005837E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88701C9F28EE4338005837E6 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		88696C1628EFAC1E002789FD /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		88701C9828EE4337005837E6 /* Drawing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drawing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88701C9B28EE4337005837E6 /* DrawingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingApp.swift; sourceTree = "<group>"; };
 		88701C9D28EE4337005837E6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		88701C8F28EE4337005837E6 = {
 			isa = PBXGroup;
 			children = (
+				88696C1628EFAC1E002789FD /* .gitignore */,
 				88701C9A28EE4337005837E6 /* Drawing */,
 				88701C9928EE4337005837E6 /* Products */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				88701CA328EE4338005837E6 /* Preview Assets.xcassets in Resources */,
+				88696C1728EFAC1E002789FD /* .gitignore in Resources */,
 				88701CA028EE4338005837E6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
