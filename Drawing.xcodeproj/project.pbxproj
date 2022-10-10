@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8803043728F395B900FE0315 /* Chalenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8803043628F395B900FE0315 /* Chalenge.swift */; };
 		88696C1728EFAC1E002789FD /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 88696C1628EFAC1E002789FD /* .gitignore */; };
 		88701C9C28EE4337005837E6 /* DrawingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88701C9B28EE4337005837E6 /* DrawingApp.swift */; };
 		88701C9E28EE4337005837E6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88701C9D28EE4337005837E6 /* ContentView.swift */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8803043628F395B900FE0315 /* Chalenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chalenge.swift; sourceTree = "<group>"; };
 		88696C1628EFAC1E002789FD /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		88701C9828EE4337005837E6 /* Drawing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drawing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88701C9B28EE4337005837E6 /* DrawingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingApp.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				88ED039928F051E900274077 /* NiceToMeetYouAnimatableData.swift */,
 				88ED039B28F0570F00274077 /* NiceToMeetYouAnimatablePair.swift */,
 				88ED039D28F05D6200274077 /* ThatOneIsReallyGood.swift */,
+				8803043628F395B900FE0315 /* Chalenge.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				88ED039028F04B0300274077 /* NiceToMeetYouHighPerformanceMetalView.swift in Sources */,
 				88ED038E28F04AC800274077 /* NiceToMeetYouSpecialEffectsView.swift in Sources */,
 				88ED039628F04B9100274077 /* NiceToMeetYouShapeView.swift in Sources */,
+				8803043728F395B900FE0315 /* Chalenge.swift in Sources */,
 				88701C9E28EE4337005837E6 /* ContentView.swift in Sources */,
 				88ED039A28F051E900274077 /* NiceToMeetYouAnimatableData.swift in Sources */,
 				88ED039C28F0570F00274077 /* NiceToMeetYouAnimatablePair.swift in Sources */,
